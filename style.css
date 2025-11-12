@@ -1,0 +1,19 @@
+p{
+    color: red;
+    font-size:25px;
+}
+.ts{
+    color:blue;
+}
+
+#ts1{
+    color:green;
+}
+div{
+    height :200px;
+    width: 200px;
+    background-color: aquamarine;
+    text-align: center;
+    align-content: center;
+    padding: 5px;
+}
