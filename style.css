@@ -1,4 +1,4 @@
-p{
+/* p{
     color: red;
     font-size:25px;
 }
@@ -10,10 +10,33 @@ p{
     color:green;
 }
 div{
-    height :200px;
-    width: 200px;
-    background-color: aquamarine;
-    text-align: center;
-    align-content: center;
-    padding: 5px;
+
+border: 5px solid black;
 }
+h1{
+ text-align: center;
+} */
+ div{
+    padding: 10px;
+    border: 5px solid black;
+    height: 300px;
+    padding: 20px;
+
+    
+
+
+ }
+ p{
+    font-size: 25px;
+ }
+ .ts20{
+   height: 150px;
+   text-align:center;
+   align-content: center;
+   padding: 10px;
+   border: 20px solid blueviolet;
+   
+   background-color: yellowgreen;
+
+
+ }
