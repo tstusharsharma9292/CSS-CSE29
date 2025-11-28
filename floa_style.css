@@ -1,0 +1,23 @@
+.container{
+    border: 4px black solid; 
+    height: 400px;
+    width: 800px;
+    background-color: pink;
+}
+
+
+.image{
+    float: left;
+    margin:10px;
+    height: 200px;
+    width: 150px;
+
+}
+
+.fot{
+    clear: left;
+   
+    background-color: rgb(243, 236, 236);
+    font-size: 20px;
+}
+
